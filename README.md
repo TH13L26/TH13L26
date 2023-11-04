@@ -4,7 +4,7 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{TH13L26}/count.svg" /></p> 
 </div>
-
+<br>
 
 - 🔭 Projetando minha carreira em desenvolvimento web Full Stack;
 - 🌱 No momento estudando Java Web Fullstack pelo institudo PROA;
