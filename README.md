@@ -5,3 +5,11 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{TH13L26}/count.svg" /></p> 
 <br>
 </div>
+
+
+- 🔭 Projetando minha carreira em desenvolvimento web Full Stack;
+- 🌱 No momento estudando Java Web Fullstack pelo institudo PROA;
+- 👯 Estou disposto a colaborar em projetos do mundo Web Java;
+- 💬 Vamos nos conectar - www.linkedin.com/in/talisson-santos;
+- 📫 Contato: talissonhenrique00@gmail.com;
+- ⚡ Focado em desenvolver projetos de alta relevancia e compartilhar.
