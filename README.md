@@ -9,6 +9,6 @@
 - 🔭 Projetando minha carreira em desenvolvimento web Full Stack;
 - 🌱 No momento estudando Java Web Fullstack pelo institudo PROA;
 - 👯 Estou disposto a colaborar em projetos do mundo Web Java;
-- 💬 Vamos nos conectar - www.linkedin.com/in/talisson-santos;
+- 💬 Vamos nos conectar <a href="www.linkedin.com/in/talisson-santos" target="_blank">LinkedIn<a>;
 - 📫 Contato: talissonhenrique00@gmail.com;
 - ⚡ Focado em desenvolver projetos de alta relevancia e compartilhar.
