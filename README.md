@@ -13,7 +13,8 @@
 - 📫 Contato: talissonhenrique00@gmail.com;
 - ⚡ Focado em desenvolver projetos de alta relevancia e compartilhar.
 
-  <div style="display: inline_block align="center"><br>
+  <div align="center"> 
+    <div style="display: inline_block"><br>
       <h1 align="center">Habilidades</h1>
       <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
